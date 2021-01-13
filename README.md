@@ -24,7 +24,7 @@ c) Add the number 14 to the end of the Array.
 
 d) Add the number 3 to the start of the Array.
 
-e) Use a for loop to go over the Array and find the larges number.
+e) Use a for loop to go over the Array and find the largest number.
 
 > Tip: Use a variable largest and compare every item to the largest, update largest if the item is larger.
 
@@ -42,9 +42,10 @@ b) Add "Tomato" to the end of the Array.
 
 c) Add "Cucumber" to the start of the Array.
 
-d) Use a for loop to go over the Array, and for each item, console log out the value of the item and how many letters it contains (ie. "Tomato contains 6 letter").
+d) Use a for loop to go over the Array, and for each item, console log out the value of the item and how many letters it contains (eg. "Tomato contains 6 letter").
 
 ## Exercise 4
+
 Given the array:
 
 ```js
@@ -88,11 +89,8 @@ Given the Array of numbers from Exercise 2
 let myNumbers = [13, -2, 18, 4, 42, 12, 9, -21, -3];
 ```
 
-a) Sort `myNumbers` using the Array.sort() method from above. Console log the sorted menu. 
+a) Sort `myNumbers` using the Array.sort() method from above. Console log the sorted menu. Did you get the result you expected?
 
 b) Use a *compare function* to sort the numbers by numeric value, rather then alphabetically.
 
 c) Sort the numbers in reverse order, ie. largest first, by adjusting the compare function.
-
-<!-- b) function(a, b){return a - b} -->
-<!-- c) function(a, b){return b - a} -->
