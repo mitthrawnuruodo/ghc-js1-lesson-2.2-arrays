@@ -6,7 +6,7 @@ Make an array with the first 10 Fibonacci numbers: 0, 1, 1, 2, 3, 5, 8, 13, 21, 
 
 a) What is the value of the seventh Fibonacci number? Console log out the answer.
 
-b) Make a varaible sum. Use a for loop to go over the array, and add up the value of the numbers. Console log out the sum.
+b) Make a variable `sum`. Use a `for` loop to go over the array, and add up the value of the numbers. Console log out the sum.
 
 ## Exercise 2
 
@@ -20,9 +20,9 @@ a) Console log out how many items the Array holds.
 
 b) Remove the last item in the Array.
 
-c) Add the number 14 to the end of the Array.
+c) Add the number `14` to the end of the Array.
 
-d) Add the number 3 to the start of the Array.
+d) Add the number `3` to the start of the Array.
 
 e) Use a for loop to go over the Array and find the largest number.
 
@@ -38,11 +38,11 @@ let vegetables = ['Cabbage', 'Turnip', 'Radish', 'Carrot'];
 
 a) Console log out how many items the Array holds.
 
-b) Add "Tomato" to the end of the Array.
+b) Add `"Tomato"` to the end of the Array.
 
-c) Add "Cucumber" to the start of the Array.
+c) Add `"Cucumber"` to the start of the Array.
 
-d) Use a for loop to go over the Array, and for each item, console log out the value of the item and how many letters it contains (eg. "Tomato contains 6 letter").
+d) Use a `for` loop to go over the Array, and for each item, console log out the value of the item and how many letters it contains (eg. "Tomato contains 6 letters").
 
 ## Exercise 4
 
@@ -52,11 +52,11 @@ Given the array:
 let mixed = ["Dill", 42, true, , 13, "13", null];
 ```
 
-a) Make a for loop to loop over all items and, for each item console log out the index, value and data type of the element.
+a) Make a `for` loop to loop over all items and, for each item console log out the index, value and data type of the element.
 
-b) Add the string "Hello, World!" to the undefined element in the Array `mixed`, then console.log out `mixed`.
+b) Add the string `"Hello, World!"` to the `undefined` element in the Array `mixed`, then console.log out `mixed`.
 
-c) Make another for loop and add up all the items in the Array that has a numeric data type. Console log the sum.
+c) Make another `for` loop and add up all the items in the Array that has a numeric data type. Console log the sum.
 
 ## Exercise 5
 
@@ -89,7 +89,7 @@ Given the Array of numbers from Exercise 2
 let myNumbers = [13, -2, 18, 4, 42, 12, 9, -21, -3];
 ```
 
-a) Sort `myNumbers` using the Array.sort() method from above. Console log the sorted menu. Did you get the result you expected?
+a) Sort `myNumbers` using the `Array.sort()` method from above. Console log the sorted Array. Did you get the result you expected?
 
 b) Use a *compare function* to sort the numbers by numeric value, rather then alphabetically.
 
