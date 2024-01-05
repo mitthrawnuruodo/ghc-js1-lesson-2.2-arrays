@@ -1,4 +1,4 @@
-# Programming Foundations Lesson 2.2: Arrays
+# JavaScript 1 Lesson 2.2: Arrays
 
 ## Exercise 1
 
